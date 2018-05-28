@@ -1,0 +1,52 @@
+entity EncryptedAadharInfo {
+	encryptedAadhar String,
+    referenceId String 
+}
+
+
+
+// an ignored comment
+/** not an ignored comment */
+
+
+
+
+/**
+ * Task entity.
+ * @author The JHipster team.
+ */
+
+
+/**
+ * The Employee entity.ngularSuffix * with mySuffix
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// defining multiple OneToMany relationships with comments
+
+
+
+// defining multiple oneToOne relationships
+
+
+
+
+dto * with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl 
+// Set an angular suffix
+angularSuffix * with mySuffix
